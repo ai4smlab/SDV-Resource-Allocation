@@ -17,7 +17,6 @@ We implement and evaluate three heuristic methods:
 - ✅ **CSCH-Guided**: Degree-aware variant of CSCH  
 - ✅ **AGA**: Randomized multi-start Adaptive Genetic Algorithm  
 
----
 
 ## 🎯 Objectives  
 - Ensure feasible allocation under **ISO 26262 safety requirements**  
@@ -25,7 +24,6 @@ We implement and evaluate three heuristic methods:
 - Scale up to **800 applications** under an **80-VM platform cap**  
 - Compare **heuristics vs. exact solvers** in terms of *compactness* and *runtime efficiency*  
 
----
 
 ## 📊 Results Summary  
 
@@ -38,7 +36,6 @@ Heuristic methods achieve **feasible solutions at scale**, requiring only a mode
 | 400  | 32,320    | 2,154,001   | **21.3**  | 44.3          |
 | 800  | 64,320    | 8,577,761   | **24.3**  | 75.0          |
 
----
 
 ### Runtime Comparison (seconds)  
 Heuristics achieve **2–3 orders of magnitude faster runtimes**, completing even the largest instances in sub-second (CSCH/CSCH-Guided) or a few seconds (AGA).  
@@ -49,7 +46,6 @@ Heuristics achieve **2–3 orders of magnitude faster runtimes**, completing eve
 | 400  | 14.95 | 9.63   | 20.78| **0.156** | 0.159 | 2.675 |
 | 800  | 143.5 | 60.2   | 162.9| **0.641** | 0.605 | 9.745 |
 
----
 
 ## 🔑 Key Insights  
 - **Exact solvers** → More compact solutions but poor scalability.  
@@ -57,7 +53,6 @@ Heuristics achieve **2–3 orders of magnitude faster runtimes**, completing eve
 - **CSCH & CSCH-Guided** → Near-instant runtimes, highly predictable.  
 - **AGA** → Greater solution diversity, suitable for moderately large instances.  
 
----
 
 ## 🛠️ Getting Started  
 
