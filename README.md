@@ -82,3 +82,7 @@ BibTeX:
   year    = {2025}
 }
 ```
+
+## 🙏 Acknowledgment  
+
+We would like to thank **Fengjunjie Pan** for providing the original codebase and dataset that supported this research. We also acknowledge the support of the **Interdisciplinary Research Center for Smart Mobility and Logistics at KFUPM** under Grant INML2501: *Contextual Observability of Software-Defined Vehicles*.  
