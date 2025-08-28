@@ -61,6 +61,11 @@ Heuristics achieve **2–3 orders of magnitude faster runtimes**, completing eve
 - Common scientific libraries: `numpy`, `scipy`, `matplotlib`  
 - (Optional) OR-Tools or ILP solvers (for baseline comparison)  
 
+## 📂 Source Code and Data Availability  
+
+The source code for this work is available in **[heuristics_sdv.ipynb](https://github.com/ai4smlab/SDV-Resource-Allocation/blob/main/heuristics_sdv.ipynb)**.  
+The benchmark datasets used in this project were kindly provided to us by one of the authors of *Pan et al. (2022)*.  As the datasets are not publicly released, we cannot include them in this repository.  If you are interested in accessing the data, please contact the original authors of [Pan et al. (2022)](https://doi.org/10.1109/ITSC55140.2022.9922526).  
+
 
 ## 🔖 Citation
 
