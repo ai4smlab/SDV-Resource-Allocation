@@ -1,10 +1,10 @@
-<div align="center">
-
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ai4smlab/SDV-Resource-Allocation/blob/main/LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/ai4smlab/SDV-Resource-Allocation)
 ![Repo Size](https://img.shields.io/github/repo-size/ai4smlab/SDV-Resource-Allocation)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![GitHub Stars](https://img.shields.io/github/stars/ai4smlab/SDV-Resource-Allocation?style=social)
+
+<div align="center">
 
 # Heuristics-based Resource Allocation in Software-defined Vehicles  
 
