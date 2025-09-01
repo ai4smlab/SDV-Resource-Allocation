@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Heuristics-based Resource Allocation in Software-defined Vehicles  
+# Heuristics-based Resource Allocation in Software-defined Vehicles 
 
 Ousman Khan and Alaa Khamis  
 
